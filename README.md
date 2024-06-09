@@ -1,2 +1,2 @@
 # Image-Classifier_Indonesian-Food
-Classifying Indonesian Food using Transfer Learning
+Part of Bangkit Academy final project; Capstone Project.
